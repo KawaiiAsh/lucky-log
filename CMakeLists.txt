@@ -6,4 +6,8 @@ set(CMAKE_CXX_STANDARD 11)
 add_executable(ver_log
         src/logger.cpp
         include/logger.h
-        test/test_logger.cpp)
+        src/log_formatter.cpp
+        include/log_formatter.h
+        #        test/test_logger.cpp
+        #        test/test_formatter.cpp
+        )
