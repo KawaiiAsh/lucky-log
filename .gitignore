@@ -1,0 +1,17 @@
+# CMake build directory
+/build/
+/cmake-build-debug/
+
+# Generated CMake files
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/CMakeScripts/
+/*.cmake
+
+# CLion files
+.idea/
+
+# Compiled binaries
+/bin/
+.DS_Store
