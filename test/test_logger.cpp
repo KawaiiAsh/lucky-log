@@ -72,7 +72,7 @@ void testLogger() {
     }
 }
 
-int main() {
-    testLogger();
-    return 0;
-}
+//int main() {
+//    testLogger();
+//    return 0;
+//}

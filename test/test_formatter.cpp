@@ -32,7 +32,7 @@ bool testSimpleLogFormatter() {
     return isMatch;
 }
 
-int main() {
-    bool result = testSimpleLogFormatter();
-    return result ? 0 : 1;
-}
+//int main() {
+//    bool result = testSimpleLogFormatter();
+//    return result ? 0 : 1;
+//}

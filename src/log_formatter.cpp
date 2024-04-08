@@ -3,7 +3,6 @@
 #include <ctime>
 #include <iomanip>
 
-// 一个简单的日志格式化器实现
 class SimpleLogFormatter : public LogFormatter {
 public:
     std::string format(const std::string& level, const std::string& message) override {
